@@ -1,0 +1,36 @@
+{
+  "product": [
+    {
+      "img": "https://m.media-amazon.com/images/I/61wnFKjF1EL._SL1500_.jpg",
+      "title": "Realme buds",
+      "details": "",
+      "price": "1200",
+      "stock": "Limited Stock",
+      "id": 3
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61cwywLZR-L._SL1500_.jpg",
+      "title": "Iphone 14",
+      "details": "",
+      "price": "71500",
+      "stock": "Limited Stock",
+      "id": 4
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+      "title": "Iphone 14 Pro",
+      "details": "",
+      "price": "1,19,200",
+      "stock": "Out Of Stock",
+      "id": 5
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+      "title": "Iphone Pro",
+      "details": "",
+      "price": "1,19,900",
+      "stock": "Out Of Stock",
+      "id": 6
+    }
+  ]
+}
